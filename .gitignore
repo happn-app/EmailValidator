@@ -1,0 +1,10 @@
+# Xcode & Finder
+.DS_Store
+*.xcodeproj/
+
+# SwiftPM
+/Packages/
+/.build/
+
+# Other
+/linux_build/
