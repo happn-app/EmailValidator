@@ -3,5 +3,6 @@ import XCTest
 import EmailValidatorTests
 
 var tests = [XCTestCaseEntry]()
-tests += EmailValidatorTests.allTests()
+tests += EmailValidatorTests.__allTests()
+
 XCTMain(tests)
