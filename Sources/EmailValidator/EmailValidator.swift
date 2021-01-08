@@ -66,7 +66,8 @@ public class EmailValidator {
 	}
 	
 //	public func evaluateEmail() -> (ValidationDiagnosis, ParsedEmail?) {
-	/** Check that an email address conforms to RFCs 5321, 5322 and others.
+	/**
+	Checks that an email address conforms to RFCs 5321, 5322 and others.
 	
 	There is a clear distinction between a Mailbox as defined by RFC 5321 and an
 	addr-spec as defined by RFC 5322. Depending on the context, either can be
