@@ -1,0 +1,4 @@
+= EmailValidator
+François Lamboley <francois.lamboley@happn.com>
+
+Reimplementation of https://github.com/dominicsayers/isemail in Swift.
