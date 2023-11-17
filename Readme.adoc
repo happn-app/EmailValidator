@@ -1,4 +1,11 @@
 = EmailValidator
 François Lamboley <francois.lamboley@happn.com>
 
+---
+
+NOTE: This repo is no longer maintained by happn. +
+A maintained version is available from its creator at https://github.com/Frizlab/swift-email[Frizlab/swift-email].
+
+---
+
 Reimplementation of https://github.com/dominicsayers/isemail in Swift.
